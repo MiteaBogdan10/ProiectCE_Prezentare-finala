@@ -11,3 +11,5 @@ Cont utilizator:
 Cont admin:
 ->email: andre@gmail.com
 ->parola: 123456
+
+Link site: https://aladin2.000webhostapp.com/
