@@ -13,3 +13,5 @@ Cont admin:
 ->parola: 123456
 
 Link site: https://aladin2.000webhostapp.com/
+
+Observation: Every time someone tries to log in to the site either as a user or as an admin they have to go back a page to access the content of that account because I encountered this problem after I hosted the site on 000webhostapp and I was unable to fix it.
