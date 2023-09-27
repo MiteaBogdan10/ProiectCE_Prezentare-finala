@@ -4,3 +4,10 @@ This e-commerce website was designed and developed to provide a seamless online 
 
 This website was a college project for the e-commerce subject where as a task we had to use Stripe for payments through PayPal.
 
+Cont utilizator:
+->email: user@gmail.com
+->parola: 12345
+
+Cont admin:
+->email: andre@gmail.com
+->parola: 123456
