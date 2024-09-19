@@ -14,4 +14,6 @@ Cont admin:
 
 Link site: https://ecommercephp.infinityfreeapp.com/
 
+This site is secured using the HTTPS protocol.
+
 
