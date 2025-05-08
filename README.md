@@ -12,7 +12,7 @@ Cont admin:
 ->email: andre@gmail.com
 ->parola: 123456
 
-Link site: https://ecommercephp.infinityfreeapp.com/
+Link site: https://php-website.infinityfreeapp.com/
 
 This site is secured using the HTTPS protocol.
 
